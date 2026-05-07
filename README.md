@@ -24,8 +24,3 @@ The **Press Title Verification Portal** is an intelligent automated system desig
 * `templates/` - Contains the frontend HTML pages (`home.html`, `admin.html`, `login.html`, `index.html`).
 * `Dataset.csv` / `.xlsx` - Training and testing data files.
 
-## 💻 How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/PushkarKumarx27/Press-Title-Verification-Portal.git](https://github.com/PushkarKumarx27/Press-Title-Verification-Portal.git)
